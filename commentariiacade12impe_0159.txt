@@ -1,0 +1,44 @@
+PER LOCA PLANETARVM GEOCENTMGA 151
+
+ 
+
+ 
+
+Α. C. Anomalia terrae media
+1681 6S ‚ 13⁰, 25Ι, 26²²
+1701 6 ‚ 13 , 17 , 50
+1721 6 , 13 , 10 , 14
+1741 6 ‚ 13 , 2 , 38
+1761 6 ‚ 12 , 55 ι 2
+1781 6 , 12 , 47 , 26
+
+1801 6, 12, 39, 51
+
+Tabula vero pro mutatione anomaliae pro dato annorum ,-
+
+numero ‚j et pro datis anni partibus manet vt ante, cum
+ea , quia tempore periodico terrae in orbita sua nititur ,
+correctione non egeat. Ex ¹his igitur tabulis correctis ad
+quoduis tempus locum solis in ecliptica exactissime affi-
+gnare licebit, qui tutiffime in inuestigandis reliquorum pla-
+netarum locis adhiberi poterit.
+
+§- 49. Orbita terrae nunc stabilita pergo ad vtum
+huius methodi monstrandum in orbita cuiuscunque plane·
+tae per loca, Geocentrica determinanda. Eligo autem ad·
+hoc ex planetis Mercurium potiffimum , cum quod eius
+loca heliocentrica rariffime obseruare licet, tum quod ta-
+bulae astronomicae pro hoc planeta maxime differunt, ideo-
+’ que corretstione prae ceteris indigent. Tabulas autem hic
+eas corrigendas suscipio , quae lexico Technico Harrifii sunt
+insertae , atque ad obseruatorium Londinense accommo-
+datae. Statuitur autem in his tabulis
+Distantia mercurii media a sole a: 38710
+existente terrae distantia media :z 100000
+
+{Di-stantia solis a centro orbitae Mercurii: 7 970·
+
+Vnde excentricitas k. Ξ ἕξ,- Ξ-’Ξ ἓξὲξ,
+
+atque
+

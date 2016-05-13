@@ -1,0 +1,56 @@
+226 METHOD. th CELEBER. LEONH. EULERI.
+
+Eleuatio Poli ergo est 0⁶
+
+duplum eius - - - 0⁰
+auferatur a - - - 9οο
+remanet - - - - 900
+
+Log. fin. 90⁰ Ξ 10, 0000000
+addatur 2, 671 3 8 1 5
+
+ 
+
+ 
+
+Subtrahatur Log. fin. tot. κε, 67 1 88 1 5
+Numerus respondens 469 , 7
+subtrahatur ab 5 71 1 7 ‚ 6
+
+ 
+
+ 
+
+Gradus-Meridiani: 56 648 hexap. Paris. circa Aequatorem.
+
+Exempl. 2.
+
+Quaemtur Meridiani gradus sub ipso Polo.
+Eleuatio Poli est 90⁰
+
+eius duplum 1 80⁶
+ab eo subtrahatur 90⁰
+
+--—-
+
+remanet - 90⁰
+
+ 
+
+Log. sm. 90⁰ :5- 10 , 0000000
+addatur 2, 671881 5
+subtrah. Log. sm. tot. ¹2 ‚ {ty-fg {1}-
+Num. respond. , 469, 7
+⁵ addatur ad 57117, 6
+
+ἡ*
+
+ 
+
+Gradus Meridiani z 575 87 hexap. Paris. sub ipso Polo.
+
+Exempl. 3.
+
+Quaeratur Meridiani Gradus sub Eleuatione Poli 49⁶ El
+e-
+

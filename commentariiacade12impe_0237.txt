@@ -1,0 +1,33 @@
+METHOD: Vm cnm-R. LEONH. [ΠΕ-ΕΜ. 229
+
+nor. Vtroque dein casu capiatur Logaritlmus finus refi-
+dui, ad eumque addatur Logarithmus Cosmus Eleuationis
+Poli, instiperque perpetuo addatur 2, 1947602 etasum-
+¹ ma subtrahatur Logarithmus finus totius bis sumtus nempe
+2‚0000000‘
+Logarithmi residui quaeratur numerus respondens ‚ hicqu'e
+priori casn , quo Eleuatio Poli maior est 45ο addatur ad
+numerum supra inuentum , altero casu qno Eleuatio Poli
+minor est quam 45Ο subtrahatur a numero supra inuento²
+sicque prodibit magnitudo Gradus in Parallelo propofito.
+
+Q- E. Ι.
+. Exempl. 1.
+
+Quaeratur magnitudo? vnius Gradus in ipso Aequatore
+Eleuatio Poli ergo est 0ο
+
+Logar. scos, 0⁰ :z 10 ‚ 0000000
+addatur 4 ‚ 75 9 ¹447
+34, 7591447
+Num. respond. :z 57430‚ 8
+duplum Eleuationis Poli 0⁰
+subtr. a , 90⁶
+- remanet -9—13
+Log. sm. 90⁰ (V z 10, 0000000
+Log. cos. 0⁰( :2 10, 0000000
+addatur v ² 2, 1947602
+
+“ subtrah. 2. log.sm.tot, 22,1·347602
+F f 3 Num.
+

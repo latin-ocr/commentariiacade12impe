@@ -1,0 +1,39 @@
+METHOD. V IRI CELEBER. LEONH. EULERI 225
+
+Ex his datis regulae poterunt tradi, tam ad singulos Me-
+ridianorum gradus , quam ad· gradus Parallelorum defi-
+niendOS.
+
+Problema. 1.
+
+Sub data Eleztation& Posi definire quantitatem vnius gradus
+in M eridiano. ”
+
+solutio.
+
+Bini casus sunt respiciendi, prior, fi Eleuatio Poli maior
+fit, quam 450, posterior, fi minor stt quam 45⁰. Vtroque
+casu Eleuatio Poli bis sumatur, ac priori casu exceffils su
+pra 900, posteriori defestus infra 90⁰. notetur ε, atque
+siue excessus siue defestus capiatur Logarithmus smus , ad
+' eumque perpetuo addatur iste Logarithmus
+
+2‚6718815
+atque a summa subtrahatur Logarithmus smus totius
+10 0000000
+
+Logarithmi residui quaeratur numerus respondens,
+
+Iste numerus hoc modo inuentus , priori casu ,quo Ele·
+vatio Poli maior est ,quam 450, addatur ad 57117 , 6 hexap.
+posteriori casu autem, quo Eleuatio Poli minor erat,
+quam 450 subtrahatur a 57117, 6 et numerus resultans
+
+1dabit {agnitudinem gradus Meridiani in hexapedis Pari.-
+mis. . Ε. Ι.
+
+Exemplum. 1.
+
+Quaeratur gradus Meridiani sub ipso Aequatore
+Tom. XII. F f ἵ Ele.
+

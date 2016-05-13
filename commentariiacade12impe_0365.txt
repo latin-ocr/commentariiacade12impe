@@ -1,0 +1,35 @@
+m: DECLINAT: SIDER.DETERM1NAT.&0. a ς 9
+
+astronomicae a se differant3 quo casu quidem ipsae cen-
+tri Solis aequationes in vna tabula diuersae erunt ab ho-
+mologis aequationibus in altera tubula3 diffeientia tamen
+duarum aequationum in vna tabula non muitum abludet a
+differentia aequationum homologasum in altera , cum ho·
+, mologae aequationes ¹>similiter fere varientur in orbitis* eclip-
+ticis ‚ quarum Excentricitates non multum a se inuicem
+distrepant prouti fit in specie orbitae Solaris iuxta. diuer-
+1215 tubulas confiderata. Rem exemplum infra* declarabit.
+
+Detur ergo per tabulas astronomicas arcus eclipticae
+, Α C , quem Sol ab vna obseruatione Vsque ad alteram
+peragrauit. Dentur praeterea ex obserqatione differentia
+Declinationum Cc et differentia ascensionum testarum D
+G seu angulus D P G vel A P C3 et quaestio huc redu-
+&a erit ‚ vt in trangulo Sphaerico A P C , ex datis arcu
+’ Α C , angulo A P C , et differentia laterum A P ‚ *P C ,
+quae est C c , inueniatur latus P C complementum decli-
+nationis C G quaefitae: quo P C dato inueniri quoque
+potest angulus P C A , eiusque complementum ad duos
+⁴ restos E C G , ex quo et declinatione inuenta C G in
+triangulo E C G ad xG redtangulo innotescent, obliquitas
+Eclipticae C E G ‚ ascensio resta E G ‚ longitudo Solis ’
+
+Pro solutione problematis praecedentis sint³
+
+ACza‘ PC:x
+Cczb PAzx÷b
+Apcspupzp PA÷PC22x÷b
+
+PA-PCchzb
+· Iam
+
